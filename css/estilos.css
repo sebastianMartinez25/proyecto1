@@ -2,5 +2,20 @@ body {
     text-align: center;
     font-family:"verdana";
     font-style: italic;
-    color:rgb(33, 238, 6);
+    font-size: 17px;
+    margin: 0;
+    padding: 0;
+    color:rgb(41, 152, 255);
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #3eaeb1;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 70px;
 }
