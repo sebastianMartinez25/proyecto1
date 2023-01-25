@@ -1,11 +1,7 @@
 Esta es la historia de Juan sebastián Martínez Losada
 
-<<<<<<< HEAD
-Juan tiene 25 años y nacio en Canadá
-=======
 Juan tiene 35 años y nació en Colombia y ha vivido
 en todo el Mundo.
->>>>>>> master
 
 Hoy hablaremos de mi VIDA, desde mis 15 años me interese por Las
 
