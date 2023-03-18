@@ -1,5 +1,7 @@
 #ignorar archivos que se llamen logs.log
 logs.log
+#ignorar el directorio y todo lo que tiene /important
+important/
 #ignora las carpetas con este patrón
 debug?.log
 #ignora archivos que terminan en .jpg excepto dragon.jpg
