@@ -3,6 +3,5 @@ debug?.log
 #ignora archivos que terminan en .jpg excepto dragon.jpg
 *.jpg
 !/imagenes/dragon.jpg
-
 #ignorar archivos y directorios que se llamen logs
 logs
