@@ -1,3 +1,5 @@
-**/debug.log
+#ignora las carpetas con este patrón
+debug?.log
+#ignora archivos que terminan en .jpg excepto dragon.jpg
 *.jpg
 !/imagenes/dragon.jpg
