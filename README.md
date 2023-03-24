@@ -10,6 +10,7 @@
 * Todos los comandos de **Git**
 * El flujo de trabajo en ***GitHub***
 * *Buenas prácticas*
+* **Malas prácticas:** ***git rebase y git cherry-pick***
 
 ***
 > ## PATRONES DE GIT IGNORE
