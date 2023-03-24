@@ -12,6 +12,12 @@
 * *Buenas prácticas*
 * **Malas prácticas:** ***git rebase y git cherry-pick***
 + Ejercicios y ejemplos de los comandos en Windows, **Linux** y `Mac.`
+```javascript
+ var a = git;
+ var b = gitHub;
+ var c = a + b;
+ c === "SUPERPODER";
+```
 ***
 > ## PATRONES DE GIT IGNORE
 | PATRÓN  | COINCIDENCIAS DE EJEMPLO | EXPLICACIÓN |
