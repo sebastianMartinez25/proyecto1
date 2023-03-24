@@ -11,7 +11,7 @@
 * El flujo de trabajo en ***GitHub***
 * *Buenas prácticas*
 * **Malas prácticas:** ***git rebase y git cherry-pick***
-
++ Ejercicios y ejemplos de los comandos en Windows, **Linux** y `Mac.`
 ***
 > ## PATRONES DE GIT IGNORE
 | PATRÓN  | COINCIDENCIAS DE EJEMPLO | EXPLICACIÓN |
