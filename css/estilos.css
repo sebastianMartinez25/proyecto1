@@ -31,7 +31,7 @@ body {
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #3eaeb1;
+    border: 1px solid #74f2f6;
     margin: 0 auto;
 }
 
@@ -43,8 +43,8 @@ body {
 }
 
 #footer{
-    background: #777;
-    color:white;
+    background: #0a3af9;
+    color:rgb(218, 217, 217);
     text-align: center;
     padding: 0.5em;
 }
